@@ -7,5 +7,5 @@ author: 'Ученик Astro'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'Полный логотип Astro.'
-tags: ["astro", "блогинг", "обучение"]
+tags: ["astro", "blogging", "learning in public"]
 ---

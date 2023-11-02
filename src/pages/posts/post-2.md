@@ -7,5 +7,5 @@ image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "Привью Astro c радугой-дугой"
 pubDate: 2022-07-08
-tags: ["astro", "блогинг", "обучение", "успех"]
+tags: ["astro", "blogging", "learning in public", "successes"]
 ---

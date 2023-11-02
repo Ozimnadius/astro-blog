@@ -7,5 +7,5 @@ image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "Превью изображение из лучей Astro."
 pubDate: 2022-07-15
-tags: ["astro", "блогинг", "обучение", "тяжко", "сообщество"]
+tags: ["astro", "blogging", "learning in public", "setbacks", "community"]
 ---
